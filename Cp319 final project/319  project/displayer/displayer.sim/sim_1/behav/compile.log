@@ -1,0 +1,8 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "F:/VIVADO_program/look_ahead_adder_X064/displayer_X064/displayer/data_cnt.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity data_cnt
+INFO: [VRFC 10-163] Analyzing VHDL file "F:/VIVADO_program/look_ahead_adder_X064/displayer_X064/displayer/segment.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity segment
+INFO: [VRFC 10-163] Analyzing VHDL file "F:/VIVADO_program/look_ahead_adder_X064/displayer_X064/displayer/top.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity top
+INFO: [VRFC 10-163] Analyzing VHDL file "F:/VIVADO_program/look_ahead_adder_X064/displayer_X064/displayer/testbench.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity testbench

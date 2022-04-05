@@ -1,0 +1,8 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../data_cnt.vhd"
+vhdl xil_defaultlib  "../../../segment.vhd"
+vhdl xil_defaultlib  "../../../top.vhd"
+vhdl xil_defaultlib  "../../../testbench.vhd"
+
+# Do not sort compile order
+nosort
